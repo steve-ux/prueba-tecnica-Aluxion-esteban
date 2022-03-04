@@ -1,4 +1,4 @@
-# Prueba técnica: Beca UI Developer #
+# Prueba técnica: UI Developer #
 
 La prueba consiste en realizar dos interfaces de una página de muebles con las interacciones correspondientes de cada una.
 
@@ -36,9 +36,8 @@ Para poder hacer las interacciones y animaciones podrás apoyarte en librerias d
 - Intentar conseguir hacer cuantas más animaciones y transiciones de las que aparecen en el vídeo.
 
 ### Entrega ###
-- La duración de la prueba tiene un máximo de 3 días para desarollarse. Una vez recibida, se deberá realizar su entrega dentro de este tiempo, tras este plazo la entrega no será válida.
-- A la hora de entregar el ejercicio, todo el código debe quedar subido a este repositorio.
-- La entrega final se debe notificar al correo ielorduy@aluxion.com, confirmando la finalización y correcta entrega de la misma.
+- A la hora de entregar el ejercicio, todo el código debe quedar subido a un repositorio.
+- La entrega final se debe notificar al correo ielorduy@aluxion.com y aroca@aluxion.com, confirmando la finalización y correcta entrega de la misma.
 
 
 ### Cómo instalar el ejercicio ###
